@@ -45,17 +45,29 @@
 ### Sujet de Projet
 
 - **Titre du projet :**   
+puzzle 
 - **Description du projet (environ 150 mots) :** 
+Création d’un jeu d’interaction en réalité virtuelle : le joueur est plongé dans une chambre à coucher minimaliste et doit explorer l’environnement pour retrouver des pièces de puzzle disséminées dans chaque recoin. Ce puzzle est particulier, car il offre de multiples possibilités de construction. En assemblant les pièces selon les motifs présents, le joueur est libre de créer sa propre représentation. Il n’y a ni bonnes ni mauvaises combinaisons ; l’objectif est simplement de rassembler les pièces pour composer une nouvelle créature.
+
+Le jeu se déroule dans une chambre à l’esthétique épurée, en noir et blanc, avec un style entre le 2D et le 3D, voire cartoonesque. Le puzzle comporte 6 pièces que le joueur doit d’abord trouver en fouillant l’ensemble de la pièce, où elles sont astucieusement dissimulées. Une fois toutes les pièces rassemblées, le joueur les dispose sur une table pour construire son puzzle. Il peut expérimenter autant qu’il le souhaite et réessayer différentes combinaisons.
 
 ### Thématiques de Recherche
 
 - **Thématiques que vous souhaitez explorer :**   
+Interactivité et immersion
+Exploration
+proposition à choix multiples 
+construction
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+Avec ce jeu, je souhaite développer des thématiques d’interactivité et d’immersion. Mon objectif est de permettre aux joueurs de vivre une véritable expérience, plutôt que de concevoir un simple projet. Le joueur ne sera donc pas passif, mais pleinement acteur de son propre jeu, ce qui l’encouragera à réfléchir et à s’investir activement. Je veux qu’il manipule les objets pour construire sa propre narration, afin de favoriser la créativité et l’auto-expression.
+Je souhaite également étudier la réaction des joueurs face à un large éventail de possibilités : quelles seront leurs relations avec le jeu et leurs choix de construction ? Enfin, les notions d’exploration et de recherche sont pour moi des aspects essentiels que je souhaite approfondir et mettre en avant tout au long de mon travail.
 
 ## Outils et Techniques
 
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
+blender et unity
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+je souhaiterais 
 
 ## Références Artistiques
 

@@ -27,7 +27,7 @@
 0/20, aucunes connaissanaces
 
 **INTERACTIVITÉ ET RENDU TEMPS RÉEL**
-0/20, aucunes connaissanaces ( désolée T_T) 
+0/20, aucunes connaissances ( désolée T_T) 
 
 **GRAPHISME ET DESIGN D'INTERFACE**
 9/20: quelques connaissances sur la mise en forme d'élèments 

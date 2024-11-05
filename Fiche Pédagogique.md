@@ -58,6 +58,7 @@ Interactivité et immersion
 Exploration
 proposition à choix multiples 
 construction
+narration environnmentale 
 - **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
 Avec ce jeu, je souhaite développer des thématiques d’interactivité et d’immersion. Mon objectif est de permettre aux joueurs de vivre une véritable expérience, plutôt que de concevoir un simple projet. Le joueur ne sera donc pas passif, mais pleinement acteur de son propre jeu, ce qui l’encouragera à réfléchir et à s’investir activement. Je veux qu’il manipule les objets pour construire sa propre narration, afin de favoriser la créativité et l’auto-expression.
 Je souhaite également étudier la réaction des joueurs face à un large éventail de possibilités : quelles seront leurs relations avec le jeu et leurs choix de construction ? Enfin, les notions d’exploration et de recherche sont pour moi des aspects essentiels que je souhaite approfondir et mettre en avant tout au long de mon travail.
@@ -67,7 +68,8 @@ Je souhaite également étudier la réaction des joueurs face à un large évent
 - **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
 blender et unity
 - **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
-je souhaiterais 
+je souhaiterai concevoir des epaces pour mettre en evant une naration environnmentale. produire des ambiances qui sucitent l'interet de l'utilisateur.
+en finalité, je souhaiterai comprendre le principe de modélisation 3D et de mise en espace pour environnment en vr. 
 
 ## Références Artistiques
 
